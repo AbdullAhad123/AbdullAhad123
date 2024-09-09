@@ -22,9 +22,9 @@
   <li>HTML, CSS & JavaScript</li>
   <li>Bootstrap, Tailwind & Material UI</li>
   <li>jQuery, Swiper.js & Chart.js</li>
-  <li>Version Control Systems: "Git & GitHub"</li>
-  <li>Web Graphics: **Freepik & Flaticon**</li>
-  <li>Design Tools: **Figma, Photopea & Canva**</li>
+  <li>Version Control Systems: Git & GitHub</li>
+  <li>Web Graphics: Freepik & Flaticon</li>
+  <li>Design Tools: Figma, Photopea & Canva</li>
 </ul>
 
 <h3 align="left">My Stats</h3>
