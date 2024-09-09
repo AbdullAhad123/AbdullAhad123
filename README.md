@@ -1,7 +1,7 @@
-<h1 align="center">Hey 👋, I'm Abdul Ahad</h1>
-<h3 align="center">I am a creative Front-end Developer with a passion for perfection.</h3>
+<h1 align="left">Hey 👋, I'm Abdul Ahad</h1>
+<li>I am a creative Front-end Developer with a passion for perfection.</li>
 
-<h3 align="left">🙋‍♂️ About Me</h3>
+<h3 align="left">🙋‍♂️ About</h3>
 - 🔭 I’m currently working as a **Front-end Web Developer**
 
 - 👯 I’m looking to collaborate on **New Projects** as a **Front-end Developer**
