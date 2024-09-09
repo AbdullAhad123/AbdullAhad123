@@ -5,7 +5,6 @@
 <ul>
   <li>Visit my personal portfolio website: <a href="https://abdullahad123.github.io/abdulahad-portfolio/" target="_blank">abdulahad.com</a></li>
   <li>Email me at: <a href="mailto:sayyedxworks@gmail.com" target="_blank">sayyedxworks@gmail.com</a></li>
-  <li>Message me on Skype: **live:.cid.3104299a6ee49fd**</li>
 </ul>
 
 <h3 align="left">About Myself</h3>
