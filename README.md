@@ -26,3 +26,8 @@
   <li>Web Graphics: **Freepik & Flaticon**</li>
   <li>Design Tools: **Figma, Photopea & Canva**</li>
 </ul>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahad123&show_icons=true&locale=en&layout=compact" alt="abdullahad123" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahad123&show_icons=true&locale=en" alt="abdullahad123" /></p>
