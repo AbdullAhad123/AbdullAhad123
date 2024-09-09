@@ -1,5 +1,5 @@
 <h1 align="left">Hey, I'm Abdul Ahad</h1>
-<li>I am a passionate Front-end Developer with over 2 years of experience in creating interactive, user-friendly, and responsive user interfaces.</li>
+I am a passionate Front-end Developer with over 2 years of experience in creating interactive, user-friendly, and responsive user interfaces.
 
 <h3 align="left">Collaborate with Me</h3>
 <ul>
