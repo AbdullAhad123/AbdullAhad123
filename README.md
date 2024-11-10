@@ -57,9 +57,3 @@
 - 🎨 My creative journey includes designing **mockups and custom icons** to add life to my projects.
 - 💬 Always open to discussing **frontend trends**, **creative design**, and **technology innovations**!
 - 🛠 Currently exploring **advanced JavaScript** and **React** to create even more powerful interfaces.
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made_with_love_for_coding-%23FF2D20?style=for-the-badge&logo=git&logoColor=white" />
-</p>
