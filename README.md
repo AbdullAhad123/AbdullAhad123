@@ -11,16 +11,16 @@
 ---
 
 ### 🖥️ About Me
-- 🚀 2+ years of experience in crafting intuitive front-end experiences.
-- 🎨 I love designing custom graphics like **mockups, illustrations, images, and vector icons** to enhance my projects.
-- 🤝 Skilled at collaborating with **Back-end Developers** to build seamless user experiences.
-- 🌱 Eager to expand my skills with **React.js**, advanced **JavaScript**, and mobile app development.
+🚀 2+ years of experience in crafting intuitive front-end experiences.
+🎨 I love designing custom graphics like **mockups, illustrations, images, and vector icons** to enhance my projects.
+🤝 Skilled at collaborating with **Back-end Developers** to build seamless user experiences.
+🌱 Eager to expand my skills with **React.js**, advanced **JavaScript**, and mobile app development.
 
 ---
 
 ### 💻 Technologies I Use
 <div align="center">
-  <img src="https://img.shields.io/badge/Code-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white" style="max-width: 100%;border-radius: 5px;height: 25px;" />
   <img src="https://img.shields.io/badge/Code-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Framework-Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
