@@ -1,8 +1,8 @@
 <h1 align="center">Hey there! 👋 I'm Abdul Ahad</h1>
 
 <p align="center">
-  <video src="https://abdullahad123.github.io/ITFirm/assets/img/myIntro.mp4" autoplay loop muted width="100%"></video>
-<!--   <img src=""  alt="Banner" width="600px"> -->
+<!--   <video src="https://abdullahad123.github.io/ITFirm/assets/img/myIntro.mp4" autoplay loop muted width="100%"></video> -->
+  <img src="https://abdullahad123.github.io/ITFirm/assets/img/myIntro.gif" alt="Banner" width="100%">
 </p>
 
 <p align="center">
