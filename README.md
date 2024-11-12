@@ -1,7 +1,8 @@
 <h1 align="center">Hey there! 👋 I'm Abdul Ahad</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/xxx/your-image.png" alt="Banner" width="600px">
+  <video src="https://abdullahad123.github.io/ITFirm/assets/img/myIntro.mp4" autoplay loop muted width="100%"></video>
+<!--   <img src=""  alt="Banner" width="600px"> -->
 </p>
 
 <p align="center">
