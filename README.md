@@ -1,39 +1,59 @@
-![Header](https://github.com/ArmaanjeetSandhu/ArmaanjeetSandhu/blob/main/GIFs/about_me.gif?raw=true)
+<h1 align="center">Hey there! 👋 I'm Abdul Ahad</h1>
 
-# 🛠️ My toolbox
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/xxx/your-image.png" alt="Banner" width="600px">
+</p>
 
-![#1](https://github.com/ArmaanjeetSandhu/ArmaanjeetSandhu/blob/main/GIFs/toolkit_1.gif?raw=true) ![#2](https://github.com/ArmaanjeetSandhu/ArmaanjeetSandhu/blob/main/GIFs/toolkit_2.gif?raw=true)
+<p align="center">
+  <b>A passionate Front-end Developer focused on creating beautiful, responsive, and interactive user interfaces.</b>
+</p>
 
-# 🌐 You can also find me here
+---
 
-[![Gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=white&color=%23EA4335)](mailto:armaanjeetsandhu430@gmail.com)
-[![Medium](https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium)](https://medium.com/@armaanjeetsandhu)
-[![Kaggle](https://img.shields.io/badge/kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white&color=%2320BEFF)](https://www.kaggle.com/armaanjeetsandhu)
-[![StrataScratch](https://img.shields.io/badge/stratascratch-%2300a699?style=for-the-badge)](https://platform.stratascratch.com/user/chillstar)
-[![MachineHack](https://img.shields.io/badge/machinehack-black?style=for-the-badge)](https://machinehack.com/user/6561171c5ea925001af6d1fa)
-[![LeetCode](https://img.shields.io/badge/leetcode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white&color=%23FFA116)](https://leetcode.com/u/chillstar/)
-[![MS Learn](https://img.shields.io/badge/microsoft_learn-%2300a8f0?style=for-the-badge&logoColor=white&color=%2300a8f0)](https://learn.microsoft.com/en-us/users/armaanjeetsinghsandhu-4450/)
-[![Coursera](https://img.shields.io/badge/coursera-%230056D2?style=for-the-badge&logo=coursera&logoColor=white&color=%230056D2)](https://www.coursera.org/learner/armaanjeetsandhu)
-[![Credly](https://img.shields.io/badge/credly-%23FF6B00?style=for-the-badge&logo=credly&logoColor=white&color=%23FF6B00)](https://www.credly.com/users/armaanjeet-sandhu)
-[![Spotify](https://img.shields.io/badge/spotify-%231DB954?style=for-the-badge&logo=spotify&logoColor=white&color=%231DB954)](https://open.spotify.com/user/31oznrny4qpmo363aqtifu2ytoey?si=149f26e7fcad4666)
-[![Substack](https://img.shields.io/badge/substack-%23FF6719?style=for-the-badge&logo=substack&logoColor=white&color=%23FF6719)](https://substack.com/@armaanjeetsandhu)
+### 🖥️ About Me
+- 🚀 2+ years of experience in crafting intuitive front-end experiences.
+- 🎨 I love designing custom graphics like **mockups, illustrations, images, and vector icons** to enhance my projects.
+- 🤝 Skilled at collaborating with **Back-end Developers** to build seamless user experiences.
+- 🌱 Eager to expand my skills with **React.js**, advanced **JavaScript**, and mobile app development.
 
-[![An image of @armaanjeetsandhu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/armaanjeetsandhu)](https://holopin.io/@armaanjeetsandhu)
+---
 
-[![ArmaanjeetSandhu's GitHub | Languages Over Time](https://stats.quine.sh/ArmaanjeetSandhu/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ArmaanjeetSandhu)
+### 💻 Technologies I Use
+<div align="center">
+  <img src="https://img.shields.io/badge/Code-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Framework-Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-TailwindCSS-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI-Material--UI-%230081CB?style=flat-square&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Git-%23F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</div>
 
-[![ArmaanjeetSandhu's GitHub | Stats](https://stats.quine.sh/ArmaanjeetSandhu/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ArmaanjeetSandhu)
-[![ArmaanjeetSandhu's GitHub | Dependencies](https://stats.quine.sh/ArmaanjeetSandhu/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ArmaanjeetSandhu)
+### 🛠️ Core Skills
+- **Responsive Web Design**: Crafting mobile-first designs that look amazing on any device.
+- **Web Graphics Creation**: Creating custom graphics using **Freepik**, **Flaticon**, **Photopea**, and **Canva**.
+- **Collaboration**: Effective team player, working closely with back-end developers to elevate the user experience.
 
-Made it to the end? Read these jokes I came up with:
+---
 
-<details>
-<summary>Who solved the mystery of concurrency control?</summary>
-It was <b>Shared-Lock</b> Holmes!  <br>
-  <sub><i><b>Explanation:</b> Shared locks are used in concurrency control to allow multiple transactions to read a resource simultaneously while preventing any of them from writing to it, ensuring data consistency.</i></sub>
-</details>
-<details>
-<summary>Why did the RL agent fail to rob the bank?</summary>
-Because he was <b>n-armed</b>!  <br>
-  <sub><i><b>Explanation:</b> The n-armed bandit problem is a classic dilemma in reinforcement learning where an agent must decide which arm of a multi-armed bandit to pull to maximize cumulative rewards over time, while facing uncertainty about each arm's reward distribution.</i></sub>
-</details>
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://abdulahad.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-abdulahad.com-%23FF5722?style=for-the-badge" /></a>
+  <a href="mailto:sayyedxworks@gmail.com"><img src="https://img.shields.io/badge/Email-sayyedxworks@gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🔥 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulahad&show_icons=true&theme=tokyonight" alt="Abdul Ahad's GitHub Stats" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahad&layout=compact&theme=tokyonight" alt="Top Languages" width="400px" />
+</div>
+
+---
+
+### 🌈 Fun Facts
+- 🎨 My creative journey includes designing **mockups and custom icons** to add life to my projects.
+- 💬 Always open to discussing **frontend trends**, **creative design**, and **technology innovations**!
+- 🛠 Currently exploring **advanced JavaScript** and **React** to create even more powerful interfaces.
