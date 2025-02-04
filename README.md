@@ -7,7 +7,7 @@
 ---
 
 ### 🖥️ About Me
-- 🚀 2+ years of experience in crafting intuitive front-end experiences.
+- 🚀 2+ years of experience in creating elegant and user-friendly front-end experiences.
 - 🎨 I love designing custom graphics like **mockups, illustrations, images, and vector icons** to enhance my projects.
 - 🤝 Skilled at collaborating with **Back-end Developers** to build seamless user experiences.
 - 🌱 Eager to expand my skills with **React.js**, advanced **JavaScript**, and mobile app development.
@@ -51,5 +51,5 @@
 
 ### 🌈 Fun Facts
 - 🎨 My creative journey includes designing **mockups and custom icons** to add life to my projects.
-- 💬 Always open to discussing **frontend trends**, **creative design**, and **technology innovations**!
+- 💬 I'm always open to discussing **frontend trends**, **creative design**, and **technology innovations**!
 - 🛠 Currently exploring **advanced JavaScript** and **React** to create even more powerful interfaces.
