@@ -35,7 +35,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://abdulahad.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-abdulahad.com-%23FF5722?style=for-the-badge" /></a>
+  <a href="https://syedahadportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-abdulahad.com-%23FF5722?style=for-the-badge" /></a>
   <a href="mailto:sayyedxworks@gmail.com"><img src="https://img.shields.io/badge/Email-sayyedxworks@gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
